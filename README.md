@@ -1,25 +1,21 @@
-# Taager online store
 
-This project is a front-end project as an application on what we studied in the last period.This is not the official website of the online store. we hope you like it.
+<h1 align="center">Hi 👋, I'm Amr mohamed </h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-## Developed by
-1- Yassin Marei 
+- 🌱 link for this webssite :- https://amrabdo74.github.io/taagerdemo/
 
-- linkedIn: https://www.linkedin.com/in/yasin-marei-259940192/
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amr-abdo74//](https://www.linkedin.com/in/amr-abdo74/)
 
-2- Amr Abdo
+- 📫 How to reach me **amrabdo0102@gmail.com**
 
-- linkedIn: https://www.linkedin.com/in/amr-abdo74/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amr-abdo74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasin-marei-259940192/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007260193308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007260193308" height="30" width="40" /></a>
+</p>
 
-## Technologies we used
-1-HTML and HTML5.
-
-2-CSS and CSS3.
-
-3-JAVASCRIPT.
-
-4-Font Awesome
-
-## project link
-
-- https://yasin3015.github.io/taagerdemo/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </p>
